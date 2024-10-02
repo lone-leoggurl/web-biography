@@ -1,0 +1,16 @@
+h1{
+  color: hotpink;
+  border-bottom: 5px dashed;
+}
+h2{
+  font-style: italic;
+  color: blueviolet
+}
+.box {
+  border:5px solid purple;
+  padding:5px;
+  background:lightgray;
+  }
+a:hover {
+  background-color:greenyellow;
+  }
